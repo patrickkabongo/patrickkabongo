@@ -3,7 +3,7 @@
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="patrick-cisuaka-kabongo-msc-8ba491127"><a class="LI-simple-link" href='https://br.linkedin.com/in/patrick-cisuaka-kabongo-msc-8ba491127?trk=profile-badge'>Patrick Cisuaka Kabongo, MSc</a></div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Marcus%20Paulo-18186f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-cisuaka-kabongo-msc-8ba491127/)](https://www.linkedin.com/in/patrick-cisuaka-kabongo-msc-8ba491127/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Patrick%20Kabongo-18186f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-cisuaka-kabongo-msc-8ba491127/)](https://www.linkedin.com/in/patrick-cisuaka-kabongo-msc-8ba491127/) 
 
 ## :sunglasses: About me!
 - 🔭 I’m currently working at Engesoftware – Tecnologia S.A. (allocated on BBTS)
