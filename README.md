@@ -4,7 +4,7 @@
 
 ## :sunglasses: About me!
 - 🔭 I’m currently working at Engesoftware – Tecnologia S.A. (allocated on BBTS)
-- 🌱 I’m currently learning Quarkus, Angular
+- 🌱 I’m currently learning Quarkus, Spring Boot and Angular
 <!--
 **marcuspaulo/marcuspaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
