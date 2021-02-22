@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at Engesoftware – Tecnologia S.A. (allocated on BBTS)
+- 🔭 I’m currently working at Engesoftware – Tecnologia S.A. (allocated on BBTS - Bank of Brazil Technology and Services)
 - 🌱 I’m currently learning Quarkus, Angular
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
